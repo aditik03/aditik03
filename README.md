@@ -2,6 +2,8 @@
 
 ## A bit about :smiley:
 
+#### :woman_student: I am an inquisitive learner. Enjoys those work where creativity and learning goes hand in hand making it more interesting and exciting to do.
+
 ### :rocket: Personal Information- 
 - Name:  Aditi Khemka
 - Qualification:  B.tech ( 2021 passout)
@@ -16,9 +18,6 @@
 - IDE: NetBeans | Arduino IDE
 - Software: Cisco Packet Tracer (Beginner level)| Xampp Server
 - Other Skills: Docker (Beginner level) | Kubernetes (Beginner level) | AWS (Beginner level) | Git and GitHub (Beginner level)
-
-#### :woman_student: I am an inquisitive learner. Enjoys those work where creativity and learning goes hand in hand making it more interesting and exciting to do.
-
 
 ## :rocket: Socialising-
 
