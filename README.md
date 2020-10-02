@@ -1,6 +1,6 @@
 # Hola Geeks! :star_struck:
 
-## A bit about :smiley:
+## A bit about me :smiley:
 
 #### :woman_student: I am an inquisitive learner. Enjoys the work where creativity and learning goes hand in hand making it more interesting and exciting to do.
 
