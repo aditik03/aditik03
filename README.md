@@ -2,7 +2,7 @@
 
 ## A bit about :smiley:
 
-#### :woman_student: I am an inquisitive learner. Enjoys those work where creativity and learning goes hand in hand making it more interesting and exciting to do.
+#### :woman_student: I am an inquisitive learner. Enjoys the work where creativity and learning goes hand in hand making it more interesting and exciting to do.
 
 ### :rocket: Personal Information- 
 - Name:  Aditi Khemka
