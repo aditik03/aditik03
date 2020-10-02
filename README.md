@@ -19,7 +19,7 @@
 - Software: Cisco Packet Tracer (Beginner level)| Xampp Server
 - Other Skills: Docker (Beginner level) | Kubernetes (Beginner level) | AWS (Beginner level) | Git and GitHub (Beginner level)
 
-## :rocket: Socialising-
+### :rocket: Socialising-
 
 
 <a href="https://www.linkedin.com/in/aditi-khemka-03c/">
