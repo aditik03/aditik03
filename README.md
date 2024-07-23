@@ -12,7 +12,7 @@
 - Current Company: Accenture
 - Role: Applcation Development Analyst
 
-### :rocket: Computing Skills- 
+### :rocket: Skills- 
 - Programming languages: Python | Shell scripting
 - Skills: Docker (Beginner level) | Kubernetes (Beginner level) | AWS Cloud (Beginner level) | Git and GitHub (Beginner level)
 - ActiveBatch (Workload automation tool)
