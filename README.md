@@ -9,28 +9,16 @@
 - Qualification:  B.tech ( 2021 passout)
 - College:  Mody University
 - Major:  Computer Science
+- Current Company: Accenture
+- Role: Applcation Development Analyst
 
 ### :rocket: Computing Skills- 
-- Programming languages: Java (core) | C | Shell scripting
-- Web Based Technologies: HTML | CSS
-- Operating System: Windows | Linux | Unix
-- Database: MySQL
-- IDE: NetBeans | Arduino IDE
-- Software: Cisco Packet Tracer (Beginner level)| Xampp Server
-- Other Skills: Docker (Beginner level) | Kubernetes (Beginner level) | AWS (Beginner level) | Git and GitHub (Beginner level)
+- Programming languages: Python | Shell scripting
+- Skills: Docker (Beginner level) | Kubernetes (Beginner level) | AWS Cloud (Beginner level) | Git and GitHub (Beginner level)
+- ActiveBatch (Workload automation tool)
+- SAP Business Objects
+  
 
-### :rocket: Socialising-
-
-
-<a href="https://www.linkedin.com/in/aditi-khemka-03c/">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="mailto:aditikhemka03@gmail.com">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<a href="https://www.quora.com/profile/Aditi-Khemka-8">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a>
 
