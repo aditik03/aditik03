@@ -6,7 +6,7 @@
 
 ### :rocket: Personal Information- 
 - Name:  Aditi Khemka
-- Qualification:  B.tech ( 2021 passout)
+- Qualification:  B.tech ( 2017-2021)
 - College:  Mody University
 - Major:  Computer Science
 - Current Company: Accenture
