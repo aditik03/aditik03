@@ -6,17 +6,17 @@
 
 ### :rocket: Personal Information- 
 - Name:  Aditi Khemka
-- Qualification:  B.tech ( 2017-2021)
+- Qualification:  B.Tech ( 2017-2021)
 - College:  Mody University
 - Major:  Computer Science
 - Current Company: Accenture
-- Role: Applcation Development Analyst
+- Role: Application Development Analyst
 
 ### :rocket: Skills- 
 - Programming languages: Python | Shell scripting
 - Skills: Docker (Beginner level) | Kubernetes (Beginner level) | AWS Cloud (Beginner level) | Git and GitHub (Beginner level)
 - ActiveBatch (Workload automation tool)
-- SAP Business Objects
+
   
 
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
